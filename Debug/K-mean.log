@@ -11,10 +11,17 @@ c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(104): warning C4018: '<': s
 c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(131): warning C4018: '<': signed/unsigned mismatch
 c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(134): warning C4018: '<': signed/unsigned mismatch
 c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(138): warning C4018: '<': signed/unsigned mismatch
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(154): warning C4018: '<': signed/unsigned mismatch
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(185): warning C4018: '<': signed/unsigned mismatch
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(195): warning C4018: '<': signed/unsigned mismatch
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(212): warning C4018: '<': signed/unsigned mismatch
-c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(153): warning C4102: 'std': unreferenced label
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\kbasa\source\repos\k-mean\k-mean\k-mean.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   K-mean.vcxproj -> C:\Users\kbasa\source\repos\K-mean\Debug\K-mean.exe
